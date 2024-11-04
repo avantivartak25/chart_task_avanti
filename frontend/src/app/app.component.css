@@ -1,0 +1,13 @@
+div{
+    font-size: large;
+}
+button{
+    height: 50px;
+    width:200px;
+    font-size: large;
+}
+.intro{
+    text-align: justify; 
+
+    padding: 10px;      
+}

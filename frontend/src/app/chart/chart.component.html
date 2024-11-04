@@ -1,0 +1,8 @@
+<h1>Patient Data </h1>
+<h2>Number of patients by State</h2>
+<canvas id="pieChart"></canvas>
+
+<div *ngIf="selectedState">
+    <h2>Gender and Age Distribution in {{ selectedState }}</h2>
+    <canvas id="barChart"></canvas>
+</div>
